@@ -47,7 +47,7 @@ export function Hero({ games, search, onSearchChange }: HeroProps) {
         <p className="mb-4 inline-flex items-center rounded-full border border-brass/30 bg-brass/10 px-3 py-1 text-xs font-black uppercase tracking-[0.26em] text-amber-400">
           Free-to-play casino lobby
         </p>
-        <h1 className="max-w-xl font-display text-6xl font-bold leading-[0.88] text-chalk sm:text-7xl lg:text-8xl">
+        <h1 className="max-w-xl font-display text-6xl font-bold leading-[0.88] text-chalk sm:text-4xl lg:text-7xl">
           Find your next winning table.
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-8 text-chalk/76">
