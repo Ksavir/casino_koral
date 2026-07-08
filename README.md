@@ -6,13 +6,16 @@ Designed as the solution for The Multiple Junior Full Stack Developer Technical 
 
 ## Preview
 
-
+Hero Section
 ![HeroSection](src/public/images/Captura%20de%20pantalla%202026-07-07%20a%20la(s)%2011.44.05 p.m..png)
 
+Game Slider
 ![Game Sliders](src/public/images/Captura%20de%20pantalla%202026-07-07%20a%20la(s)%2011.46.38 p.m..png)
 
+Game Page
 ![Game page](src/public/images/Captura%20de%20pantalla%202026-07-07%20a%20la(s)%2011.47.20 p.m..png)
 
+Favorites Games
 ![Favorite Games](src/public/images/Captura%20de%20pantalla%202026-07-07%20a%20la(s)%2011.48.16 p.m..png)
 
 ## Features
